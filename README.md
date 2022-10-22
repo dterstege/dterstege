@@ -21,6 +21,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Publication Repository
 - GitHub Repositories with the code used for data analysis (when applicable).
+
 | Directory  | Title | Included Analyses |
 | ------------- | ------------- | --------- |
 | [Scott2020](https://github.com/dterstege/PublicationRepo/tree/main/Scott2020) | Disrupted Neurogenesis in Germ-Free Mice: Effects of Age and Sex | N/A |
