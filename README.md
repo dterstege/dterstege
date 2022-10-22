@@ -26,6 +26,9 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 - [Fibre Photometry Analyses](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry)
 
 ## Publication Repository
+
+<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/1024px-Google_Scholar_logo.svg.png" width="40"/>
+
 - GitHub Repositories with the code used for data analysis (when applicable).
 - Further information on these publications can be found at the linked Google Scholar and Research Gate profiles
 
