@@ -12,12 +12,15 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
     - Advanced histology and microscopy techniques, including various tissue clearing approaches, and sophisticated analysis of these images
     - 3D CAD modelling and the prototyping of scientific hardware
 
+## Programming Languages
+-
+
 ## Tools
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP)
 - [Fibre Photometry Analyses](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry)
 
 ## Publication Repository
-
+- GitHub Repositories with the code used for data analysis (when applicable).
 | Directory  | Title | Included Analyses |
 | ------------- | ------------- | --------- |
 | [Scott2020](https://github.com/dterstege/PublicationRepo/tree/main/Scott2020) | Disrupted Neurogenesis in Germ-Free Mice: Effects of Age and Sex | N/A |
@@ -37,8 +40,8 @@ temp
 
 ## Contact Me
 
-I am happy to answer any questions concerning the analyses included on my GitHub profile.
+-I am happy to answer any questions concerning the analyses included on my GitHub profile.
 
-- ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@dterstege](https://twitter.com/dterstege) 
-- ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png)
+  - ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@dterstege](https://twitter.com/dterstege) 
+  - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png)
 <dylan.terstege@ucalgary.ca>
