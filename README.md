@@ -48,7 +48,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Collaboration
 
-<img align="right" src="https://github.com/dterstege/dterstege/blob/main/IMG_8048.jpeg" width="360"/>
+<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/IMG_8048.jpeg" width="360"/>
 
 - Always open to collaboration on the following kinds of problems
 
