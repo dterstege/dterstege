@@ -41,9 +41,13 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 ## Collaboration
 
 - Always open to collaboration on the following kinds of problems
+
+ 
   - Work automating and quantifying histology
     - Brain-wide regional label expression
     - Colocalization of fluorescent labels in 3D volumetric imaging sets 
+    
+     
   - The analysis of time-course datasets
     - multi/single region fibre photometry 
     - multi/single region fibre photometry 
