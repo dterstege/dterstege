@@ -17,10 +17,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Programming Languages
 
-<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/R_logo.svg.png" width="50"/>
-<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/Matlab_Logo.png" width="50"/>
-<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/fiji.png" width="50"/>
-<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/Python-logo-notext.svg.png" width="50"/>
+<img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/R_logo.svg.png" width="50"/>  <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/Matlab_Logo.png" width="50"/>  <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/fiji.png" width="50"/>  <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/Python-logo-notext.svg.png" width="50"/>
 
 ## Tools
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP)
@@ -32,7 +29,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 [<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/64px-ResearchGate_icon_SVG.svg.png" width="30"/>](https://www.researchgate.net/profile/Dylan-Terstege)
 
 - GitHub Repositories with the code used for data analysis (when applicable).
-- Further information on these publications can be found at the linked profiles.
+- Further information on these publications can be found at the linked profiles (click icons):
 
 
 
