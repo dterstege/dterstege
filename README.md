@@ -27,7 +27,8 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Publication Repository
 
-<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/1024px-Google_Scholar_logo.svg.png" width="40"/>
+<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/1024px-Google_Scholar_logo.svg.png" width="30"/>
+<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/64px-ResearchGate_icon_SVG.svg.png" width="30"/>
 
 - GitHub Repositories with the code used for data analysis (when applicable).
 - Further information on these publications can be found at the linked Google Scholar and Research Gate profiles
