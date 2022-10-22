@@ -27,6 +27,11 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Publication Repository
 - GitHub Repositories with the code used for data analysis (when applicable).
+- Further information on these publications can be found at the linked Google Scholar and Research Gate profiles
+
+![1024px-Google_Scholar_logo svg](https://user-images.githubusercontent.com/44174532/197362387-8f8f6156-f87f-4193-bcdd-270b979b37f2.png) 
+![64px-ResearchGate_icon_SVG svg](https://user-images.githubusercontent.com/44174532/197362411-08ea7307-e4ee-444e-8b70-b545bed22d11.png)
+
 
 | Directory  | Title | Included Analyses |
 | ------------- | ------------- | --------- |
