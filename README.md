@@ -13,7 +13,10 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
     - 3D CAD modelling and the prototyping of scientific hardware
 
 ## Programming Languages
--
+- R
+- MatLab
+- ImageJ Macro Language
+- Python
 
 ## Tools
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP)
@@ -37,7 +40,15 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Collaboration
 
-temp
+- Always open to collaboration on the following kinds of problems
+  - Work automating and quantifying histology
+    - Brain-wide regional label expression
+    - Colocalization of fluorescent labels in 3D volumetric imaging sets 
+  - The analysis of time-course datasets
+    - multi/single region fibre photometry 
+    - multi/single region fibre photometry 
+    - miniscope recordings 
+    - mesoscale imaging data
 
 ## Contact Me
 
