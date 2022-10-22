@@ -16,10 +16,11 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
     - 3D CAD modelling and the prototyping of scientific hardware
 
 ## Programming Languages
-- R
-- MatLab
-- ImageJ Macro Language
-- Python
+
+<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/R_logo.svg.png" width="50"/>
+<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/Matlab_Logo.png" width="50"/>
+<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/fiji.png" width="50"/>
+<img align="centre" src="https://github.com/dterstege/dterstege/blob/main/images/Python-logo-notext.svg.png" width="50"/>
 
 ## Tools
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP)
