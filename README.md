@@ -31,7 +31,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 [<img align="right" src="https://github.com/dterstege/dterstege/blob/main/images/64px-ResearchGate_icon_SVG.svg.png" width="30"/>](https://www.researchgate.net/profile/Dylan-Terstege)
 
 - GitHub Repositories with the code used for data analysis (when applicable).
-- Further information on these publications can be found at the linked Google Scholar and Research Gate profiles
+- Further information on these publications can be found at the linked profiles.
 
 
 
