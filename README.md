@@ -5,7 +5,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Academic Interests
 
-<img align="right" src="https://github.com/dterstege/dterstege/blob/main/deep_crop.png" width="200"/>
+<img align="right" src="https://github.com/dterstege/dterstege/blob/main/deep_crop.png" width="250"/>
 
 - My primary academic interest is studying the brain-wide dynamics supporting learning and memory
   - My prefered techniques for these investigations include (but are not limited to - I'm always looking out for new techniques!):
