@@ -1,4 +1,4 @@
-## Dylan Terstege
+Dylan Terstege
 -------------------
 
 I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) in the Hotchkiss Brain Institute at the University of Calgary.
