@@ -3,6 +3,27 @@ Dylan Terstege
 
 I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) in the Hotchkiss Brain Institute at the University of Calgary.
 
+## Interests
+- temp
+- temp
+
+## Tools
+- temp
+- temp
+- temp
+
+## Publication Repository
+
+temp
+
+## Collaboration
+
+temp
+
+## Contact Me
+
+temp
+
 <!--
 **dterstege/dterstege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
