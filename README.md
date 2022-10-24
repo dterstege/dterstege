@@ -20,8 +20,8 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/R_logo.svg.png" width="50"/>  <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/Matlab_Logo.png" width="50"/>  <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/fiji.png" width="50"/>  <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/Python-logo-notext.svg.png" width="50"/>
 
 ## Tools
-- [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP)
-- [Fibre Photometry Analyses](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry)
+- [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP) as per https://doi.org/10.1523/ENEURO.0325-21.2022
+- [Fibre Photometry Analyses](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry) as per https://doi.org/10.1101/2022.08.19.504565
 
 ## Publication Repository
 
