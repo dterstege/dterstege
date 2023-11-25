@@ -68,6 +68,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
     - multi/single region fibre photometry 
     - miniscope recordings 
     - mesoscale imaging data
+    - fMRI (human and rodent)
 
 ## Contact Me
 
