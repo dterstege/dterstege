@@ -49,7 +49,10 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 | [Terstege 2023A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A) | Sex-dependent impairments of parvalbumin expressing neurons in the retrosplenial cortex in Alzheimer’s disease | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/wholebrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) [#wholebrainanalysis](https://github.com/dterstege/WholeBrainAnalysis) [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/photometry) |
 | [Terstege 2023B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B) | Protocol for the integration of fiber photometry and social behavior in rodent models | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B/photometry)|
 | [Terstege 2023C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023C) | Parvalbumin as a sex-specific target in Alzheimer’s disease research – A mini-review | N/A |
-| [Terstege 2023D](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023D) | PAW, a cost-effective and open-source alternative to commercial rodent running wheels | [#PAW](https://github.com/dterstege/PAW) |
+| [Terstege 2024A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024A) | PAW, a cost-effective and open-source alternative to commercial rodent running wheels | [#PAW](https://github.com/dterstege/PAW) |
+| [Ramkumar Edge-Partington 2024](https://github.com/dterstege/PublicationRepo/tree/main/Ramkumar2024) | Long-term impact of early-life stress on serotonin connectivity | N/A |
+| [Terstege 2024B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024B) | Running-induced neurogenesis reduces CA1 perineuronal net density without substantial temporal delay | [#PAW](https://github.com/dterstege/PAW) |
+| [Terstege 2024C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024C) | Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer’s Disease | N/A |
 
 ## Collaboration
 
@@ -69,6 +72,9 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
     - miniscope recordings 
     - mesoscale imaging data
     - fMRI (human and rodent)
+    - PET (human and rodent)
+   
+  - Transcriptomic analyses
 
 ## Contact Me
 
