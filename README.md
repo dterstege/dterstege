@@ -1,7 +1,7 @@
-Dylan Terstege
+Dylan Terstege, Ph.D.
 -------------------
 
-I am a neuroscience PhD studying in the [Epp Lab](https://epplab.com) in the Hotchkiss Brain Institute at the University of Calgary.
+I obtained a PhD in neuroscience in the [Epp Lab](https://epplab.com), part of the Hotchkiss Brain Institute at the University of Calgary.
 
 ## Academic Interests
 
@@ -13,6 +13,8 @@ I am a neuroscience PhD studying in the [Epp Lab](https://epplab.com) in the Hot
     - Brain-wide mapping of immediate early gene expression and the graph theoretical analysis of these functional connectivity networks
     - _In vivo_ monitoring of cell type specific activity in specific target regions, at both a single cell level and at the level of regional population activity
     - Advanced histology and microscopy techniques, including various tissue clearing approaches, and sophisticated analysis of these images
+    - Analyses transcriptomic datasets (experience with Xenium and GeoMx DSP)
+    - The integration of clinical neuroimaging (e.g., fMRI, PET) and basic science (e.g., _in vivo_ calcium/voltage imaging, c-fos functional connectivity) datasets for translational applications
     - 3D CAD modelling and the prototyping of scientific hardware
 
 ## Programming Languages
@@ -20,6 +22,8 @@ I am a neuroscience PhD studying in the [Epp Lab](https://epplab.com) in the Hot
 <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/R_logo.svg.png" width="50"/>    <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/Matlab_Logo.png" width="50"/>    <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/fiji.png" width="50"/>   <img align="center" src="https://github.com/dterstege/dterstege/blob/main/images/Python-logo-notext.svg.png" width="50"/>
 
 ## Tools
+- [Open-Source Limited Bedding and Nesting Materials Model of Early-Life Stress](https://github.com/dterstege/PublicationRepo/tree/main/ONeill2025) as per https://doi.org/10.1523/ENEURO.0081-25.2025
+- [Open-Source Running Wheel Logger](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024A) as per https://doi.org/10.1016/j.ohx.2023.e00499
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP) as per https://doi.org/10.1523/ENEURO.0325-21.2022
 - [Fibre Photometry Analyses](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry) as per https://doi.org/10.1101/2022.08.19.504565
 
@@ -53,9 +57,9 @@ I am a neuroscience PhD studying in the [Epp Lab](https://epplab.com) in the Hot
 | [Ramkumar Edge-Partington 2024](https://github.com/dterstege/PublicationRepo/tree/main/Ramkumar2024) | Long-term impact of early-life stress on serotonin connectivity | [#LBN](https://github.com/dterstege/LBN_Cage) |
 | [Terstege 2024B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024B) | Running-induced neurogenesis reduces CA1 perineuronal net density without substantial temporal delay | [#PAW](https://github.com/dterstege/PAW) |
 | [Terstege 2024C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024C) | Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer’s Disease | N/A |
-| [Barnard 2024](https://github.com/dterstege/PublicationRepo/tree/main/Barnard2024) | TBD | N/A |
+| [Barnard 2024](https://github.com/dterstege/PublicationRepo/tree/main/Barnard2024) | Activity of CaMKII-expressing neurons in medial prefrontal cortex of male and female Long Evans rats is necessary for encoding odor information and novelty recognition in an odor-based incidental memory test | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Barnard2024/photometry) |
 | [Terstege 2025A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2025A) | Cognitive enrichment preserves retrosplenial parvalbumin density and cognitive function in female 5xFAD mice | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/wholebrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) [#wholebrainanalysis](https://github.com/dterstege/WholeBrainAnalysis) |
-| [O'Neill Terstege 2025](https://github.com/dterstege/PublicationRepo/tree/main/ONeill2025) | TBD | [#LBN](https://github.com/dterstege/LBN_Cage) |
+| [O'Neill Terstege 2025](https://github.com/dterstege/PublicationRepo/tree/main/ONeill2025) | An open-source rodent limited bedding and nesting apparatus for chronic early-life stress | [#LBN](https://github.com/dterstege/LBN_Cage) |
 | [Terstege 2025B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2025B) | SSRIs reduce plasma tau and restore dorsal raphe metabolism in Alzheimer's disease | N/A |
 
 ## Collaboration
